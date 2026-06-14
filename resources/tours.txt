@@ -1,0 +1,5 @@
+LagoLlanquihue;PuertoVaras;15000
+SaltosDelPetrohue;PuertoVaras;18000
+VolcanOsorno;PuertoVaras;25000
+IslaHuar;Calbuco;12000
+FrutillarCultural;Frutillar;10000
