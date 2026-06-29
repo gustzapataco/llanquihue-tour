@@ -1,6 +1,6 @@
 # Llanquihue Tour
 
-## Descripción
+## Descripción (Semana 4)
 
 Proyecto "Construyendo una lista de objetos desde archivo .txt" desarrollado en Java para la asignatura Desarrollo Orientado a Objetos I.
 
